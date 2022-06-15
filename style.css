@@ -10,7 +10,7 @@ body {
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
- font-size: 95px;
+ font-size: 75px;
  font-weight: bold;
  margin-top: 5px;
  color: violet;
